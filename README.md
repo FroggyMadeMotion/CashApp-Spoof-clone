@@ -36,7 +36,7 @@ Basic knowledge of iOS app development.
 Installation
 Clone this repository to your local machine using Git:
 
-https://github.com/BigBoiiiiiii/cashapp-spoof.git
+(https://github.com/FroggyMadeMotion/CashApp-Spoof-clone)
 Open the project in Xcode (Xcode is only available on MacOS)
 
 Compile the project into an ipa
