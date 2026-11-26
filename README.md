@@ -1,4 +1,4 @@
-Make sure you check out our Channel! https://discord.gg/Z3H2KspjG
+Make sure you check out our Channel! (https://discord.gg/DCZjsruw76)
 We have more and better versions of Cash App Clones
 Our newest version exclusive includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!!
 We also have other App Clones like PayPal, Chase and more!!!
@@ -7,7 +7,7 @@ Link fixed
 
 Cash App Clone program everyone uses is called larpdevice its highly reccomended
 
-JOIN LARP DEVICE FOR ALL CLONE APPS https://discord.gg/Z3H2KspjG
+JOIN LARP DEVICE FOR ALL CLONE APPS https://discord.gg/DCZjsruw76
 
 This is a clone of the Cash App, which allows you to change your balance. Please note that this project was originally written by Ethan and has been modified to work specifically on iPhone 11 by me.
 
